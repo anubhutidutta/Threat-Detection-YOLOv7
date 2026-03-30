@@ -1,0 +1,5 @@
+train: C:/Users/ridag/yolov7/data/weapon_detection/train/images
+val: C:/Users/ridag/yolov7/data/weapon_detection/val/images
+
+nc: 9  # Number of classes
+names: ["Automatic Rifle","Bazooka","Handgun","Knife","Grenade Launcher","Shotgun","SMG","Sniper","Sword"]  # Class names
