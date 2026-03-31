@@ -30,4 +30,4 @@ python detect.py --weights best.pt --conf 0.25 --img-size 640 --source path/to/i
 
 ## Note
 
-The model file (`best.pt`) is not included due to size limitations. Download it separately and place it in the project folder.
+The model file (best.pt) is large in size and may take time to download. For convenience, it can also be accessed via an external link if required.
