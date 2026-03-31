@@ -67,7 +67,7 @@ Where:
 ## 8. Project Structure
 
 project/
-│── detect.py
+|── detect.py
 │── app.py
 │── data.yaml
 │── requirements.txt
